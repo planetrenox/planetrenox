@@ -25,7 +25,7 @@ uniport (alpha)
 cute-socks      
 cute-puppeteer      
 cute-util      
-cute-npm-prune
+cute-npm-prune      
 cute-html      
 cute-npm-link      
 cute-con      
@@ -36,3 +36,5 @@ chrome-abused
 piercer-error      
 
 codeveloper of girlsock.directory (an imageboard)
+
+looking for a job in the US. EMAIL: planetrenox@protonmail.com
